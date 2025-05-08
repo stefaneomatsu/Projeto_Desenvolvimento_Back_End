@@ -1,0 +1,12 @@
+DROP TABLE Unidade;
+DROP TABLE Usuarios;
+DROP TABLE Profissionais;
+DROP TABLE Sessao;
+DROP TABLE PlanoSaude;
+DROP TABLE Pacientes;
+DROP TABLE PacientesPlanoSaude;
+DROP TABLE Consultas;
+DROP TABLE Laboratorio;
+DROP TABLE Exames;
+DROP TABLE Prontuarios;
+DROP TABLE ProntuariosEntradas;
