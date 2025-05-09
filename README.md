@@ -45,3 +45,8 @@ dotnet run
 Acesse a documentação interativa no Swagger:
 
 http://localhost:5000/swagger
+
+
+<h2>Observações</h2>
+
+No script de inserção de informações no banco de dados, já é cadastrado um usuário do tipo administrador com o usuário "admin" e senha criptografado "teste123"
