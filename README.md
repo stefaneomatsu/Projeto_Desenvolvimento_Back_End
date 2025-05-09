@@ -19,7 +19,7 @@ IDE (ex: Visual Studio, VS Code)
 
 Crie um banco Firebird com o nome SGHSS.fdb (ou ajuste a connection string no arquivo appsettings.json).
 
-Execute os scripts SQL de criação das tabelas (disponíveis em ./scripts/).
+Execute os scripts SQL de criação das tabelas (disponíveis em Banco De Dados/scripts/).
 
 
 <b> 2. Configuração do Projeto </b>
